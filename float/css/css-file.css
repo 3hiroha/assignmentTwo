@@ -1,0 +1,28 @@
+.boxing1{
+    
+    background:red;
+    padding:30px;
+    margin: 30px;
+    border:5px solid black;
+    width:10%;
+    float:right;
+    
+    
+    
+}
+.boxing2{
+    background:rgb(0, 21, 255);
+    padding:30px;
+    margin: 30px;
+    border:5px solid black;
+    width:10%;
+    
+}   
+.boxing3{
+    background:rgb(4, 171, 13);
+    padding:30px;
+    margin: 30px;
+    border:5px solid black;
+    width:10%;
+    
+}
